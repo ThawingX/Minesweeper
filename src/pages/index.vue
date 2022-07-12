@@ -137,6 +137,7 @@ function checkGameState() {
 <template>
   <div>
     Mineseeper
+    小璇贝
     <div p1 />
     <div
       v-for="(row, y) in state"
